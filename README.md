@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>ROCK MY LOVE - RML Token</title>
+  <title>I LOVE PC - RML Token</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -78,29 +78,29 @@
 <body>
 
   <header>
-    <img src="Pockemy #018.png" alt="ROCK MY LOVE">
-    <h1>ROCK MY LOVE (RML)</h1>
-    <p>Developed for rock lovers based on the history of the Pockts. Let's live freedom.</p>
+    <img src="LOVE.png" alt="I LOVE PC">
+    <h1>I LOVE PC (LOVE)</h1>
+    <p>TOKEN CREATED ONLY FOR THOSE WHO LOVE COMPUTERS, WE CAN DO EVERYTHING!</p>
   </header>
 
   <div class="token-info">
-    <p><strong>🔗 Token Symbol:</strong> RML</p>
+    <p><strong>🔗 Token Symbol:</strong> LOVE</p>
     <p><strong>🌐 Network:</strong> Solana</p>
     <p><strong>📜 Token Contract:</strong><br>
-      5GYRdJP51VoXmwvWh6bWaEK4iL7PDyvmkzUXPr5XYPSP
+      ENDEREÇO SOMENTE
     </p>
     <p><strong>🛒 Onde Comprar:</strong><br>
-      <a class="button" href="https://www.smapocke.app/meme-pad/5GYRdJP51VoXmwvWh6bWaEK4iL7PDyvmkzUXPr5XYPSP" target="_blank">
-        Comprar na Smapocke
+      <a class="button" ENDEREÇO DO TOKEN" target="_blank">
+        BUY IN Smapocke
       </a>
     </p>
     <p><strong>📢 Siga nas redes:</strong><br>
-      <a class="button" href="https://x.com/MagrelonN" target="_blank">Twitter / X</a>
+      <a class="button" href="https://x.com/Patrick97170532" target="_blank">Twitter / X</a>
     </p>
   </div>
 
   <footer>
-    &copy; 2025 ROCK MY LOVE. Todos os direitos reservados.
+    &copy; 2025 I LOVE PC. All rights reserved.
   </footer>
 
 </body>
